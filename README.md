@@ -1,4 +1,6 @@
-# Bibliotheque 📚
+# Gestion d'une bibliothèque sur console développé en C++ 📚
+
+
 
 ![image](https://github.com/sepios87/Bibliotheque/blob/master/illustrationsGit/1.PNG)
 
