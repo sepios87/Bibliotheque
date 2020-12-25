@@ -1,4 +1,4 @@
-# Bibliotheque
+# Bibliotheque 📚
 
 ![image](https://github.com/sepios87/Bibliotheque/blob/master/illustrationsGit/1.PNG)
 
